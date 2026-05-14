@@ -1,0 +1,10 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/tasks.db
+
+# 환경변수
+.env
+.env.*
